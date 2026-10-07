@@ -1,0 +1,23 @@
+{
+  "id": "cat-a-comb-design-brief",
+  "title": "Cat-a-Comb: our cats already chose this bed, so let's build it",
+  "subtitle": "A cat bed that is also a tunnel: a rectangular wood frame around a removable U-shaped foam cradle. Our cats found the shape themselves in an improvised version; this brief proposes three designs and a prototype plan.",
+  "type": "article",
+  "area": "Product Development",
+  "topics": ["Product Design", "New Products", "Pets"],
+  "tags": ["cat-bed", "cat-tunnel", "design-brief", "product-concept", "prototype", "memory-foam", "walnut", "pet-products"],
+  "owners": [{ "name": "A. Montecalvo", "role": "Author" }],
+  "published": "2026-10-07",
+  "updated": "2026-10-07",
+  "status": "final",
+  "summary": "Our cats love an improvised setup: a foam mat folded into a U inside the wooden base of a coffee table, and a gap walled in by books. Cat-a-Comb turns it into a product: a wood frame around a removable U-shaped memory-foam core, as an Open Cradle, a Closed Tunnel (both 24″ × 10″ × 10″) or a bookshelf variant. The ask is to build two prototypes and trial them with other cats before deciding on production.",
+  "key_findings": [
+    "Two of our cats choose an improvised version: a U-folded foam mat inside a wooden frame, and a gap walled by books.",
+    "The concept is a wood frame plus a removable U-shaped memory-foam core and a washable liner, open at both ends (bed and tunnel).",
+    "Three variants: Open Cradle and Closed Tunnel (24″ × 10″ × 10″), and the Bibliophile's Burrow bookshelf (36″ × 10″ × 14″).",
+    "Not yet tested: other cats, cost, pricing, demand, safety and manufacturing.",
+    "The ask: prototype the two simplest variants and run a home trial with colleagues' cats."
+  ],
+  "data_sources": ["Photos of our cats at home", "Original hand sketch", "Concept renders (illustrative)"],
+  "related": []
+}

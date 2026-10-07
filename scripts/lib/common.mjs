@@ -60,6 +60,8 @@ export function extract(html) {
     try { return "\n" + describeChart(JSON.parse(raw)) + "\n"; } catch { return ""; }
   });
   body = body.replace(/<(script|style|svg|noscript)[\s\S]*?<\/\1>/gi, " ");
+  // Keep image descriptions searchable (and visible to AI): <img alt="…"> → [Image: …]
+  body = body.replace(/<img\b[^>]*\balt="([^"]+)"[^>]*>/gi, (_, alt) => `\n[Image: ${alt}]\n`);
   const headings = [...body.matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>/gi)].map((m) => clean(m[1]));
   const text = clean(
     body

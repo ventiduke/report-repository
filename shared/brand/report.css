@@ -92,6 +92,17 @@ body.pp-report {
 .pp-figure .pp-fig-title { font-weight: 650; font-size: 15.5px; margin: 0 0 2px; }
 .pp-figure .pp-fig-sub { font-size: 13.5px; color: var(--ink-2); margin: 0 0 12px; }
 .pp-figure figcaption, .pp-figure .pp-fig-source { font-size: 12px; color: var(--ink-3); margin-top: 8px; }
+/* ---------- Image figures ---------- */
+.pp-figure img { display: block; width: 100%; height: auto; border-radius: var(--radius-m); border: 1px solid var(--line); background: var(--surface-2); }
+.pp-figure a.pp-img-link { display: block; cursor: zoom-in; }
+.pp-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 0; }
+.pp-gallery figure { margin: 0; }
+.pp-gallery figcaption { margin-top: 6px; }
+.pp-img-label { display: inline-block; font-size: 11px; font-weight: 650; letter-spacing: .04em; text-transform: uppercase; padding: 2px 7px; border-radius: 6px; margin-right: 6px; vertical-align: 1px; }
+.pp-img-label.real { background: #e6f4e6; color: var(--good-text); }
+.pp-img-label.sketch { background: var(--surface-2); color: var(--ink-2); }
+.pp-img-label.concept { background: var(--brand-clay-100); color: #9a4521; }
+
 /* ---------- Callouts ---------- */
 .pp-callout { border: 1px solid var(--line); border-radius: var(--radius-m); padding: 16px 20px; margin: 24px 0; background: var(--surface-1); break-inside: avoid; }
 .pp-callout > :last-child { margin-bottom: 0; }

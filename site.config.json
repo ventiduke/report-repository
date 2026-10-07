@@ -44,6 +44,12 @@
       "color": "#e87ba4"
     },
     {
+      "name": "Product Development",
+      "slug": "product-development",
+      "description": "New product concepts, design briefs, prototypes and launch reviews.",
+      "color": "#008300"
+    },
+    {
       "name": "Methods & Standards",
       "slug": "methods",
       "description": "How we measure things, metric definitions and team practice.",
