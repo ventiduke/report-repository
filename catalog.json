@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-10-07",
   "site": {
     "name": "Insights Hub",
     "org": "Parcel & Pine"
@@ -48,6 +48,13 @@
       "count": 3
     },
     {
+      "name": "Product Development",
+      "slug": "product-development",
+      "description": "New product concepts, design briefs, prototypes and launch reviews.",
+      "color": "#008300",
+      "count": 1
+    },
+    {
       "name": "Methods & Standards",
       "slug": "methods",
       "description": "How we measure things, metric definitions and team practice.",
@@ -56,6 +63,65 @@
     }
   ],
   "reports": [
+    {
+      "id": "cat-a-comb-design-brief",
+      "title": "Cat-a-Comb: our cats already chose this bed, so let's build it",
+      "subtitle": "A cat bed that is also a tunnel: a rectangular wood frame around a removable U-shaped foam cradle. Our cats found the shape themselves in an improvised version; this brief proposes three designs and a prototype plan.",
+      "type": "article",
+      "area": "Product Development",
+      "topics": [
+        "Product Design",
+        "New Products",
+        "Pets"
+      ],
+      "tags": [
+        "cat-bed",
+        "cat-tunnel",
+        "design-brief",
+        "product-concept",
+        "prototype",
+        "memory-foam",
+        "walnut",
+        "pet-products"
+      ],
+      "owners": [
+        {
+          "name": "A. Montecalvo",
+          "role": "Author"
+        }
+      ],
+      "published": "2026-10-07",
+      "updated": "2026-10-07",
+      "status": "final",
+      "summary": "Our cats love an improvised setup: a foam mat folded into a U inside the wooden base of a coffee table, and a gap walled in by books. Cat-a-Comb turns it into a product: a wood frame around a removable U-shaped memory-foam core, as an Open Cradle, a Closed Tunnel (both 24″ × 10″ × 10″) or a bookshelf variant. The ask is to build two prototypes and trial them with other cats before deciding on production.",
+      "key_findings": [
+        "Two of our cats choose an improvised version: a U-folded foam mat inside a wooden frame, and a gap walled by books.",
+        "The concept is a wood frame plus a removable U-shaped memory-foam core and a washable liner, open at both ends (bed and tunnel).",
+        "Three variants: Open Cradle and Closed Tunnel (24″ × 10″ × 10″), and the Bibliophile's Burrow bookshelf (36″ × 10″ × 14″).",
+        "Not yet tested: other cats, cost, pricing, demand, safety and manufacturing.",
+        "The ask: prototype the two simplest variants and run a home trial with colleagues' cats."
+      ],
+      "data_sources": [
+        "Photos of our cats at home",
+        "Original hand sketch",
+        "Concept renders (illustrative)"
+      ],
+      "related": [],
+      "url": "reports/cat-a-comb-design-brief/",
+      "headings": [
+        "The short version",
+        "01 Our cats picked this shape before we designed it",
+        "02 The concept: a wood frame around a removable U-shaped foam core",
+        "03 Three variants, from simplest to most ambitious",
+        "04 Why it could be a good product, and what is still a hypothesis",
+        "05 What we need to learn before deciding to make them",
+        "06 The ask: build two prototypes and put them in front of other cats",
+        "About this brief"
+      ],
+      "charts": 0,
+      "words": 1809,
+      "reading_minutes": 8
+    },
     {
       "id": "pine-plus-referral-pilot",
       "title": "Referred Pine+ members churned 7.1% in month 3, vs. 16.2% for paid social",
