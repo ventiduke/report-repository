@@ -52,7 +52,7 @@
       "slug": "product-development",
       "description": "New product concepts, design briefs, prototypes and launch reviews.",
       "color": "#008300",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Methods & Standards",
@@ -63,6 +63,70 @@
     }
   ],
   "reports": [
+    {
+      "id": "cat-a-comb-product-plan",
+      "title": "Cat-a-Comb product plan: prototype in 4 weeks, trial with 8–10 cats, decide in week 9",
+      "subtitle": "The pitch, the spec, how to build it, how to keep it safe, what it might cost, how we'd test it with real cats, and how we'd launch it, all for about $0.7k–1.4k in materials before any production commitment.",
+      "type": "article",
+      "area": "Product Development",
+      "topics": [
+        "Product Design",
+        "New Products",
+        "Pets"
+      ],
+      "tags": [
+        "cat-bed",
+        "cat-tunnel",
+        "product-plan",
+        "prototype",
+        "unit-economics",
+        "pet-safety",
+        "go-to-market",
+        "pet-products"
+      ],
+      "owners": [
+        {
+          "name": "A. Montecalvo",
+          "role": "Author"
+        }
+      ],
+      "published": "2026-10-07",
+      "updated": "2026-10-07",
+      "status": "final",
+      "summary": "The full plan behind the Cat-a-Comb design brief: a flat-pack wood frame with a flexible foam sling in a zip-off cover, about 26″ × 11½″ × 11″ inside. The engineering is simple; the risk is demand at a premium price (small-batch cost about $150–190 a unit, so roughly $300+ retail), so the plan tests price and cat appeal before building stock: cardboard check, two prototypes, a home trial with 8–10 cats and a waitlist, then go or no-go in week 9.",
+      "key_findings": [
+        "Spec: knock-down wood frame, removable rails holding a 1″ high-density foam sling, zip-off washable cover; standard inside size about 26″ × 11½″ × 11″.",
+        "Planning-estimate unit cost at small batch is about $150–190, mostly labour, which implies a retail price of about $300–375.",
+        "Safety basics: enclosed foam with hidden zips, non-toxic finishes, rounded edges, non-slip feet and an anti-tip anchor for the bookshelf module.",
+        "Testing: a home trial with 8–10 cats plus a waitlist price test, against go/no-go criteria agreed before the trial starts.",
+        "Budget to a decision is about $0.7k–1.4k in materials; a go means a first batch of 25–50 units sold direct."
+      ],
+      "data_sources": [
+        "Cat-a-Comb design brief (photos, sketch, concept renders)",
+        "Planning estimates for materials and labour (not supplier quotes)"
+      ],
+      "related": [
+        "cat-a-comb-design-brief"
+      ],
+      "url": "reports/cat-a-comb-product-plan/",
+      "headings": [
+        "The short version",
+        "01 The pitch: furniture your cat already chose",
+        "02 The product: two launch models, two later",
+        "03 The build: a knock-down frame and a foam sling, no moulds",
+        "04 Safety and quality: what a pet product has to get right",
+        "05 Costs: labour dominates at small batch, so price must be tested before stock is built",
+        "06 Testing: real cats, a real price signal, and criteria agreed up front",
+        "07 Launch: sell a small batch direct, then add accessories",
+        "08 Timeline",
+        "09 Risks, and how the plan handles them",
+        "10 The ask",
+        "About this plan"
+      ],
+      "charts": 1,
+      "words": 2793,
+      "reading_minutes": 12
+    },
     {
       "id": "cat-a-comb-design-brief",
       "title": "Cat-a-Comb: our cats already chose this bed, so let's build it",
@@ -93,25 +157,27 @@
       "published": "2026-10-07",
       "updated": "2026-10-07",
       "status": "final",
-      "summary": "Our cats love an improvised setup: a foam mat folded into a U inside the wooden base of a coffee table, and a gap walled in by books. Cat-a-Comb turns it into a product: a wood frame around a removable U-shaped memory-foam core, as an Open Cradle, a Closed Tunnel (both 24″ × 10″ × 10″) or a bookshelf variant. The ask is to build two prototypes and trial them with other cats before deciding on production.",
+      "summary": "Our cats love an improvised setup: a foam mat folded into a U inside the wooden base of a coffee table, and a gap walled in by books. Cat-a-Comb turns it into a product: a wood frame with a removable foam sling that bends into a U, open at both ends, as an Open Cradle, a Closed Tunnel or a bookshelf variant. The ask is to prototype the two simplest variants and trial them with other cats.",
       "key_findings": [
         "Two of our cats choose an improvised version: a U-folded foam mat inside a wooden frame, and a gap walled by books.",
-        "The concept is a wood frame plus a removable U-shaped memory-foam core and a washable liner, open at both ends (bed and tunnel).",
-        "Three variants: Open Cradle and Closed Tunnel (24″ × 10″ × 10″), and the Bibliophile's Burrow bookshelf (36″ × 10″ × 14″).",
-        "Not yet tested: other cats, cost, pricing, demand, safety and manufacturing.",
-        "The ask: prototype the two simplest variants and run a home trial with colleagues' cats."
+        "Concept: a wood frame plus a flexible foam sling in a zip-off, washable cover, open at both ends (bed and tunnel).",
+        "Review fix: specify inside size. The boards' 10″ outside width leaves ~8½″ inside; at least 11″ is recommended.",
+        "Safety and practicality: enclosed foam with a hidden zip, non-toxic finish, non-slip feet, no loose books, flat-pack shipping.",
+        "The ask: a cardboard size check, then prototypes of the two simplest variants and a home trial with colleagues' cats."
       ],
       "data_sources": [
         "Photos of our cats at home",
         "Original hand sketch",
         "Concept renders (illustrative)"
       ],
-      "related": [],
+      "related": [
+        "cat-a-comb-product-plan"
+      ],
       "url": "reports/cat-a-comb-design-brief/",
       "headings": [
         "The short version",
         "01 Our cats picked this shape before we designed it",
-        "02 The concept: a wood frame around a removable U-shaped foam core",
+        "02 The concept: a wood frame with a removable foam sling that bends into a U",
         "03 Three variants, from simplest to most ambitious",
         "04 Why it could be a good product, and what is still a hypothesis",
         "05 What we need to learn before deciding to make them",
@@ -119,8 +185,8 @@
         "About this brief"
       ],
       "charts": 0,
-      "words": 1809,
-      "reading_minutes": 8
+      "words": 2300,
+      "reading_minutes": 10
     },
     {
       "id": "pine-plus-referral-pilot",

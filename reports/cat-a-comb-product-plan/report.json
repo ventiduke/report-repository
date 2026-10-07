@@ -1,0 +1,46 @@
+{
+  "id": "cat-a-comb-product-plan",
+  "title": "Cat-a-Comb product plan: prototype in 4 weeks, trial with 8–10 cats, decide in week 9",
+  "subtitle": "The pitch, the spec, how to build it, how to keep it safe, what it might cost, how we'd test it with real cats, and how we'd launch it, all for about $0.7k–1.4k in materials before any production commitment.",
+  "type": "article",
+  "area": "Product Development",
+  "topics": [
+    "Product Design",
+    "New Products",
+    "Pets"
+  ],
+  "tags": [
+    "cat-bed",
+    "cat-tunnel",
+    "product-plan",
+    "prototype",
+    "unit-economics",
+    "pet-safety",
+    "go-to-market",
+    "pet-products"
+  ],
+  "owners": [
+    {
+      "name": "A. Montecalvo",
+      "role": "Author"
+    }
+  ],
+  "published": "2026-10-07",
+  "updated": "2026-10-07",
+  "status": "final",
+  "summary": "The full plan behind the Cat-a-Comb design brief: a flat-pack wood frame with a flexible foam sling in a zip-off cover, about 26″ × 11½″ × 11″ inside. The engineering is simple; the risk is demand at a premium price (small-batch cost about $150–190 a unit, so roughly $300+ retail), so the plan tests price and cat appeal before building stock: cardboard check, two prototypes, a home trial with 8–10 cats and a waitlist, then go or no-go in week 9.",
+  "key_findings": [
+    "Spec: knock-down wood frame, removable rails holding a 1″ high-density foam sling, zip-off washable cover; standard inside size about 26″ × 11½″ × 11″.",
+    "Planning-estimate unit cost at small batch is about $150–190, mostly labour, which implies a retail price of about $300–375.",
+    "Safety basics: enclosed foam with hidden zips, non-toxic finishes, rounded edges, non-slip feet and an anti-tip anchor for the bookshelf module.",
+    "Testing: a home trial with 8–10 cats plus a waitlist price test, against go/no-go criteria agreed before the trial starts.",
+    "Budget to a decision is about $0.7k–1.4k in materials; a go means a first batch of 25–50 units sold direct."
+  ],
+  "data_sources": [
+    "Cat-a-Comb design brief (photos, sketch, concept renders)",
+    "Planning estimates for materials and labour (not supplier quotes)"
+  ],
+  "related": [
+    "cat-a-comb-design-brief"
+  ]
+}
